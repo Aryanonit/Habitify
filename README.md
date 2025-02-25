@@ -24,7 +24,7 @@ Frontend: React, Next.js
 
 Backend: Node.js, Express
 
-Database: MongoDB
+Database: MySQL
 
 Deployment: Vercel
 
