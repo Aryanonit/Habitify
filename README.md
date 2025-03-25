@@ -4,7 +4,7 @@ Habitify is a simple yet effective habit tracker designed to help you build and 
 
 Live Demo
 
-Experience Habitify live: https://v0-habitify-lyu5yv.vercel.app/
+Experience Habitify live: https://v0-habitify-n4s8zn.vercel.app/
 
 Features
 
